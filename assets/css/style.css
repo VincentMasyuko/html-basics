@@ -1,0 +1,51 @@
+.fruits{
+    border: 2px solid aquamarine;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    background-color: #5acc5a;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: #cc5a9b;
+}
+.comp{
+        background-color: #735acc;
+    border: #0052fd solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #ccac5a;
+}
+.lapt{
+    border: 2px solid black;
+
+}
+.dst{
+    border: 2px dotted #3b0f20;
+}
+.FRUITS{
+        background-color: #5accb7;
+    border: rgba(0, 82, 253, 0.35) solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #cc5a82;
+}
+#house{
+        background-color: #cc5e5a;
+    border: #c600fd solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #b75acc;
+}
+body{
+    background-image: url("/assets/images/tute image.jpg");
+}
+
